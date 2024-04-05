@@ -1,0 +1,115 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.div{
+   border: 2px solid black;
+   height: 100px;
+   width: 120px;
+   margin: 0px;
+
+   text-align: center;
+
+}
+.one{
+    border-bottom: 5px  solid grey;
+    
+}
+.one :hover{
+    background-color: rgb(201, 181, 181);
+}
+.two{
+   border-bottom: 5px solid red;
+}
+
+.three{
+    border-bottom: 5px solid rgb(0, 238, 255);
+}
+.four{
+    border-bottom:5px solid yellow;
+}
+.five{
+    border-bottom:5px solid blue;
+}
+.six{
+  border-bottom:5px solid green;
+}
+.seven{
+    border-bottom:5px solid orangered;
+}
+.main{
+padding: 0;
+margin: 0;
+ 
+}
+.images{
+   
+   display: flex;
+   justify-content: center;
+}
+
+
+.con{
+    height: 60px;
+    width: 500px;
+
+}
+.space{
+    padding-left: 100px;
+}
+
+
+.bold{
+  
+    font-size: 25px;
+
+}
+.cardone{
+    
+    background-color: black;
+    
+}
+.even{
+    display: flex;
+    height: 500;
+    width: 1500px;
+    justify-content: center;
+}
+.cardtwo{
+  
+    color: white;
+}
+.cardthree{
+    color: white;
+    margin: 40px;
+}
+.btn{
+    background-color: grey;
+}
+.cardfor{
+    display: flex;
+    justify-content: center;
+    padding-left: 180px;
+}
+.cardfiv{
+    color: white;
+}
+.cardsix{
+    color: white;
+}
+.color{
+    background-color: grey;
+    color: black;
+    width: 100px;
+    height: 50px;
+}
+.top{
+justify-content: center;
+padding-left: 325px;
+}
+
+
